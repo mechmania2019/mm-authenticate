@@ -1,5 +1,6 @@
 {
   "name": "mm-authenticate",
+  "version": "1.0.0",
   "dependencies": {
     "micro": "^9.1.0",
     "mm-schemas": "pranaygp/mm-schemas"
