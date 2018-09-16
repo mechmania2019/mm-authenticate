@@ -94,9 +94,9 @@ micro@^9.1.0:
     mri "1.1.0"
     raw-body "2.3.2"
 
-mm-schemas@mechmania2018/mm-schemas:
-  version "1.0.0"
-  resolved "https://codeload.github.com/mechmania2018/mm-schemas/tar.gz/d59026b1eec1ba8d211a208bb3bcb14bfba0bd40"
+mm-schemas@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/mm-schemas/-/mm-schemas-0.0.1.tgz#e40a091ff74ae5d22076918f3572eeef52672ae2"
   dependencies:
     mongoose "^5.0.7"
     mongoose-timestamp "^0.6.0"
