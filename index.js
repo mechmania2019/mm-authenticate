@@ -1,4 +1,4 @@
-const { send } = require('micro')
+const send = (res, status, data) => (res.statusCode = status, res.end(data));
 
 const authenticate = mongoose => {
   const { Team } = require('mm-schemas')(mongoose)
