@@ -90,9 +90,10 @@ micro@9.1.0:
     mri "1.1.0"
     raw-body "2.3.2"
 
-mm-schemas@0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/mm-schemas/-/mm-schemas-0.0.6.tgz#61c3a0b676bac36f2d8915bd285ae22fbdda8b08"
+mm-schemas@0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/mm-schemas/-/mm-schemas-0.0.8.tgz#3f456ae01f87bc7e01f24d535549b4367f26d782"
+  integrity sha512-VHIlQ16iJGBS1Srbf3DAXeZGo0Kzdvu/BM0Xs3bCywXlFEDy5ClJ3Axno1HlJa1HqadGlQ4B4NZasA9NXMREXQ==
   dependencies:
     cuid "2.1.4"
     mongoose "5.0.7"
