@@ -1,7 +1,7 @@
 {
   "name": "mm-authenticate",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "dependencies": {
-    "mm-schemas": "0.0.9"
+    "mm-schemas": "0.0.10"
   } 
 }
